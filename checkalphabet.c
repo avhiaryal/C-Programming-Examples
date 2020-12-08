@@ -1,4 +1,4 @@
-//Program to Check Alphabet
+//Program to Check if entered character is Alphabet or not
 #include <stdio.h>
 int main() {
     char c;
